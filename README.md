@@ -4,7 +4,7 @@
 
 My name is **Devin Winando**. I am just a student from Indonesia that interesting in programming, especially web programming. Still and always learning!
 
-<!-- <div style="display: flex; align-items: center;"> -->
+<div style="display: flex; justify-content: center;">
   
   ![DevinWinando's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinWinando&show_icons=true&count_private=true&theme=tokyonight)
   
@@ -12,7 +12,7 @@ My name is **Devin Winando**. I am just a student from Indonesia that interestin
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinWinando&layout=compact&theme=tokyonight)
   
-<!-- </div> -->
+</div>
 
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&column=3&margin-w=15&margin-h=15) -->
 
