@@ -4,7 +4,7 @@
 
 My name is **Devin Winando**. I am just a student from Indonesia that interesting in programming, especially web programming. Still and always learning!
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   
   ![DevinWinando's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinWinando&show_icons=true&count_private=true&theme=tokyonight)
   
