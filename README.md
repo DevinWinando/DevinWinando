@@ -2,7 +2,7 @@
 
 # Hello, there! 👋
 
-My name is **Devin Winando**. I am just a student from Indonesia that interesting in programming, especially web programming. Still and always learning!
+My name is **Devin Winando**. I am just a student from Indonesia that have an interest in programming, especially web programming. Still and always learning!
 
 <div align="center">
   
