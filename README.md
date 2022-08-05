@@ -2,7 +2,7 @@
 
 # Hello, there! 👋
 
-My name is **Devin Winando**. I am just a student from Indonesia that have an interest in programming, especially web programming. Still and always learning!
+I'm **Devin Winando**. Just an ordinary student that have an interest in programming, especially web programming. Still and always learning!
 
 <div align="center">
   
@@ -13,8 +13,6 @@ My name is **Devin Winando**. I am just a student from Indonesia that have an in
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinWinando&layout=compact&theme=tokyonight)
   
 </div>
-
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=abinoval&theme=onedark&column=3&margin-w=15&margin-h=15) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> 
