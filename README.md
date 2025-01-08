@@ -8,7 +8,7 @@ I'm **Devin Winando**. Just an ordinary student that have an interest in program
   
   ![DevinWinando's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinWinando&show_icons=true&count_private=true&theme=tokyonight)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevinWinando&theme=tokyonight)
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevinWinando&theme=tokyonight)  -->
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinWinando&layout=compact&theme=tokyonight)
   
